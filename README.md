@@ -20,7 +20,7 @@
 
 
 ### Links
-- Solution URL: (https://github.com/AshongAbdallah06/qr-code-component-main/blob/New-Branch/README-template.md)
+- Solution URL: (https://www.frontendmentor.io/solutions/responding-landing-page-using-css-flexbox-f755g_dbHW)
 - Github URL: (https://github.com/AshongAbdallah06/qr-code-component-main)
 
 <!-- ## My process -->
